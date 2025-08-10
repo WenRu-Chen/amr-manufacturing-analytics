@@ -1,7 +1,5 @@
-# amr-manufacturing-analytics
-AMR Dispatch and Production Line Efficiency Analysis
-
 ```markdown
+```
 # Manufacturing AMR Dispatch & Production Line Efficiency Analysis
 
 ## 📌 Project Overview
@@ -16,9 +14,8 @@ The dataset consists of three CSV files:
 2. `work_orders.csv` — Work order process records
 3. `stations.csv` — Static parameters of workstations
 
----
-
 ## 📂 Project Structure
+
 ```
 
 .
@@ -31,10 +28,8 @@ The dataset consists of three CSV files:
 ├── src/                   # Data cleaning & KPI calculation scripts
 └── README.md
 
-````
 
----
-
+```
 ## 📊 Data Dictionary
 
 ### 1. `amr_tasks.csv` — AMR Task Records
@@ -109,7 +104,7 @@ The dataset consists of three CSV files:
 ## 🚀 How to Use
 1. Clone the project
 ```bash
-git clone https://github.com/yourname/amr-manufacturing-analytics.git
+git clone https://github.com/WenRu-Chen/amr-manufacturing-analytics.git
 cd amr-manufacturing-analytics
 ````
 
@@ -125,7 +120,6 @@ pip install pandas matplotlib seaborn plotly duckdb
 
 ## 📌 Author
 
-* **Your Name / GitHub ID**
-* Email: [spi890012@gmail.com]
-```
+* **CHEN WEN RU / WenRu-Chen**
+* Email: [spi890012@gmail.com](mailto:spi890012@gmail.com)
 
